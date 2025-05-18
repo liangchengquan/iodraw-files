@@ -7,6 +7,12 @@
         <mxCell id="OmQ2LtM3BUqPrZt9HFiV-2257" value="仿真运行平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#474747;" vertex="1" parent="1">
           <mxGeometry x="-202" y="137" width="329" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="OmQ2LtM3BUqPrZt9HFiV-2258" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-136" y="266" as="sourcePoint" />
+            <mxPoint x="-86" y="216" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
