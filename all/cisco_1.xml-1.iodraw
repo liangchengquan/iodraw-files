@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OmQ2LtM3BUqPrZt9HFiV-2257" value="11111111" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#474747;" vertex="1" parent="1">
+        <mxCell id="OmQ2LtM3BUqPrZt9HFiV-2257" value="仿真运行平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#474747;" vertex="1" parent="1">
           <mxGeometry x="-202" y="137" width="329" height="35" as="geometry" />
         </mxCell>
       </root>
